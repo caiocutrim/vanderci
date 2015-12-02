@@ -1,0 +1,16 @@
+.home{
+  background-color: #09f;
+  color: #ffffff;
+  margin: 0 auto;
+  width: 920px;
+  max-width: 100%;
+  font-family: fantasy;
+}
+.home h1 {
+  text-align: center;
+  font-size: 32px;
+}
+.home p {
+  font-size: 22px;
+  text-align: center;
+}
